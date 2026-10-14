@@ -1,1 +1,2 @@
 Archivo número 1 de Git
+Segundo cambio en el archivo
